@@ -1,5 +1,4 @@
 <!-- @format -->
-
 # No-Sweat™ Eslint and Prettier Setup
 
 These are my settings for ESLint and Prettier
@@ -206,3 +205,5 @@ To do the above for local, omit the `--global` flag.
 Then if you are using a local install, remove your `package-lock.json` file and delete the `node_modules/` directory.
 
 Then follow the above instructions again.
+
+# (This repo is tweaked to my needs forked from Wesbos (<https://github.com/wesbos/eslint-config-wesbos>))
