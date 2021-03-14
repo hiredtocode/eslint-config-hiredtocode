@@ -1,4 +1,5 @@
 <!-- @format -->
+
 # No-Sweat™ Eslint and Prettier Setup
 
 These are my settings for ESLint and Prettier
@@ -37,7 +38,7 @@ npx install-peerdeps --dev eslint-config-hiredtocode
 
 ```json
 {
-	"extends": ["hiredtocode"]
+  "extends": ["hiredtocode"]
 }
 ```
 
@@ -77,7 +78,7 @@ In your `.eslintrc` file, it should look like this:
 
 ```json
 {
-	"extends": ["hiredtocode"]
+  "extends": ["hiredtocode"]
 }
 ```
 
@@ -206,4 +207,4 @@ Then if you are using a local install, remove your `package-lock.json` file and 
 
 Then follow the above instructions again.
 
-# (This repo is tweaked to my needs forked from Wesbos (<https://github.com/wesbos/eslint-config-wesbos>))
+# This repo is tweaked to my needs forked from Wesbos (<https://github.com/wesbos/eslint-config-wesbos>)
